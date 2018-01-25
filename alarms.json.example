@@ -2,7 +2,8 @@
   {
     "active": "False",
     "type": "discord",
-    "webhook_url": "YOUR_WEBHOOK_URL"
+    "webhook_url": "YOUR_WEBHOOK_URL",
+    "startup_message": "True"
   },
   {
     "active": "False",
